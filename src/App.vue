@@ -1,4 +1,4 @@
-<template>
+<template class="app">
 
   
   <router-view></router-view>
@@ -8,5 +8,7 @@
 </script>
 
 <style scoped>
-
+.app{
+  width: 100vw;
+}
 </style>

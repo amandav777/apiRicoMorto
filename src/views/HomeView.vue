@@ -1,22 +1,18 @@
 <script setup>
 import Card from '../components/Card.vue';
 import Navbar from '@/components/Navbar.vue';
+import FooterA from '@/components/FooterA.vue';
 
 </script>
 
 <template>
-  <div class="container">
-    <Navbar />
+  <div >
+    <Navbar/>
     <Card/>
+    <FooterA/>
   </div>
 </template>
 
-
 <style>
-.container{
-  display: flex;
-  flex-direction: column;
-
-}
 
 </style>
