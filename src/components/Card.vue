@@ -61,7 +61,7 @@ export default {
 .containerCards {
   margin: auto;
   display: grid;
-  grid-template-columns: repeat(5, 1fr); /* 4 colun*/
+  grid-template-columns: repeat(4, 1fr); /* 4 colun*/
   gap: 10px;
   width: 80vw;
   margin-bottom: 50px;

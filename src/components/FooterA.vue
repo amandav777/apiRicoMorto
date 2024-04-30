@@ -12,7 +12,7 @@
 footer{
     background-color: rgb(165, 127, 255);
     width: 100vw;
-    overflow-x: hidden;
+    overflow: hidden;
     display: flex;
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
